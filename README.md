@@ -1,6 +1,6 @@
 # GRCNN.pytorch
 Gated Recurrent Convolution Neural Network in Pytorch. <br>
-This is a pytorch implementation of [Gated Recurrent Convolution Neural Network for OCR](http://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf)
+This is a pytorch implementation of [Gated Recurrent Convolution Neural Network for OCR](http://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf).
 ## Requirements
 1. Pytorch >= 0.4.0 <br>
 2. opencv <br>
@@ -11,9 +11,7 @@ The names of train and val data are construct as bellow:
 ```
 img_xxx_$$$.jpg
 ```
-where 'xxx' represents the number of this image and '$$$' represents the label of this image. <br>
-For examples, img_0_WHLU.jpg <br>
-Other examples are in 
+where 'xxx' represents the number of this image and '$$$' represents the label of this image. For examples, img_0_WHLU.jpg. Other examples are in 
 ```
 data_sample/
 ```
