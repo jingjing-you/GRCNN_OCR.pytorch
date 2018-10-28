@@ -7,7 +7,7 @@ This is a pytorch implementation of [Gated Recurrent Convolution Neural Network 
 3. [warp_ctc_pytorch](https://github.com/SeanNaren/warp-ctc)
 4. tqdm
 ## Construct dataset
-The names of train and val data are construct as bellow:
+The names of train and val data are constructed as bellow:
 ```
 img_xxx_$$$.jpg
 ```
