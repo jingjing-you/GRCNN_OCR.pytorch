@@ -7,7 +7,7 @@ This is a pytorch implementation of [Gated Recurrent Convolution Neural Network 
 3. [warp_ctc_pytorch](https://github.com/SeanNaren/warp-ctc)
 4. tqdm
 ## Construct dataset
-The names of train and val data are construct bellow:
+The names of train and val data are construct as bellow:
 ```
 img_xxx_$$$.jpg
 ```
@@ -25,4 +25,6 @@ You can run
 python train.py
 ```
 to train your model.
-## Notes
+## References
+1. [https://github.com/meijieru/crnn.pytorch](https://github.com/meijieru/crnn.pytorch) <br>
+2. [https://github.com/Jianfeng1991/GRCNN-for-OCR](https://github.com/Jianfeng1991/GRCNN-for-OCR) <br>
