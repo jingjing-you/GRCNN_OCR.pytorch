@@ -11,7 +11,7 @@ The names of train and val data are construct as bellow:
 ```
 img_xxx_$$$.jpg
 ```
-where 'xxx' represents the number of this image and '$$$' represents the label of this image. For examples, img_0_WHLU.jpg. Other examples are in 
+where 'xxx' represents the number of this image and '$$$' represents the label of this image. For example，‘img_0_WHLU.jpg’. Other examples are in 
 ```
 data_sample/
 ```
