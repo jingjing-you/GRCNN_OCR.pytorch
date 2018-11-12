@@ -13,18 +13,10 @@ img_xxx_$$$.jpg
 ```
 where 'xxx' represents the number of this image and '$$$' represents the label of this image. For example，‘img_0_WHLU.jpg’. <br>
 ![img_0_WHLU](https://github.com/jingjing-you/GRCNN.pytorch/blob/master/data_sample/img_0_WHLU.jpg) <br>
-Other examples are in 
-```
-data_sample/
-```
-directory.
+Other examples are in `data_sample/ `directory.
 
 ## Training the model 
-You can run
-```
-python train.py
-```
-to train your model.
+You can run `python train.py` to train your model.
 ## References
 1. [https://github.com/meijieru/crnn.pytorch](https://github.com/meijieru/crnn.pytorch) <br>
 2. [https://github.com/Jianfeng1991/GRCNN-for-OCR](https://github.com/Jianfeng1991/GRCNN-for-OCR) <br>
