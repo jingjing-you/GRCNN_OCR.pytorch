@@ -1,7 +1,7 @@
 # GRCNN.pytorch
 ## Introduction
 This is a pytorch implementation of [Gated Recurrent Convolution Neural Network for OCR](http://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf). <br>
-A CRNN implementation is in [https://github.com/jingjing-you/CRNN_OCR.pytorch](https://github.com/jingjing-you/CRNN_OCR.pytorch)
+A CRNN implementation is in [https://github.com/jingjing-you/CRNN_OCR.pytorch](https://github.com/jingjing-you/CRNN_OCR.pytorch).
 ## Requirements
 1. Pytorch >= 0.4.0 <br>
 2. opencv <br>
